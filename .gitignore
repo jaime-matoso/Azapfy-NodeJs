@@ -1,0 +1,85 @@
+# Arquivos temporários
+*.swp
+*.swo
+*.swn
+*.bak
+*.~*
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de compilação TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# Arquivos de compilação JavaScript
+dist/
+build/
+out/
+
+# Logs e arquivos de saída
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração
+.env
+.env.local
+.env.*.local
+.local
+*.config.js
+tsconfig.tsbuildinfo
+
+# Cache e arquivos temporários
+.pnp/
+.pnp.js
+.pnp.cjs
+
+# Arquivos de saída do linter e testes
+coverage/
+lib-cov/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Arquivos de configuração do IDE (por exemplo, Visual Studio Code)
+.vscode/
+
+# Arquivos de configuração do projeto (por exemplo, TypeScript)
+tsconfig.json
+jsconfig.json
+
+# Arquivos de configuração do npm
+.npmrc
+
+# Arquivos de configuração do yarn
+.yarnrc
+.yarn/
+.yarn-integrity
+
+# Arquivos de configuração do editor (por exemplo, Vim)
+.vim/
+
+# Arquivos de build do Babel
+dist/
+
+# Dependências do npm
+package-lock.json
+yarn.lock
+
+# Dependências do pnpm
+pnpm-lock.yaml
+
+# Dependências do Bower
+bower_components/
+
+# Logs e resultados de teste
+test-results/
+
+# Editorconfig
+.editorconfig
