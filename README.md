@@ -19,7 +19,7 @@ git clone (https://github.com/jaime-matoso/Azapfy-NodeJs.git)
 2. Atraves de um terminal navegue até seu projeto e acesse o diretório src:
 
 ```
-cd ../Azapfy-NodeJs/src
+cd ..\Azapfy-NodeJs\src
 ```	
 3. Instale as dependências do projeto:
 
